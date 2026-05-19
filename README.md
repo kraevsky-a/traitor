@@ -1,4 +1,4 @@
-=== ИЗМЕНЕНИЕ ОТ BRANCH1 ===
+=== branch1: ИЗМЕНЕНИЕ 2 ===
 # Traitor
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
